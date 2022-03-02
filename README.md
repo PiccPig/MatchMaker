@@ -1,6 +1,6 @@
 # MatchMaker
 A scuffed tool used for injecting match art patterns into SRXD .srtb files.
-Left click for blue, right click for red, middle click for transparent. Put into .srtb file using File > Export
+Left click for blue, right click for red, middle click for transparent. Put into .srtb file using File > Export.
 Patterns can be saved in and opened from .txt files.
 
 
